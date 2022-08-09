@@ -1,0 +1,19 @@
+dax- data analysis exprestion language.
+
+datetable.
+
+Calendar = CalendarAuto()
++ new coloumn + rename('Year')
+Year([Date])
++ new coloumn + rename('Month number')
+MONTH([Date])
++ new coloumn + rename('Month')
+FORMAT([Date],"mmmm" )
+FORMAT([Date],"dddd" )
+=========================
+generaly.
+measures = metrics, aggregates.
+vs
+columns = descriptive, categorical.
+
+==========================
